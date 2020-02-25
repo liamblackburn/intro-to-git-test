@@ -1,4 +1,4 @@
-<img src="https://images.app.goo.gl/83hyNNeSpZwBs5Xh9" alt="C++ Logo" width="306" height="344" />
+<img src="https://www.library.mmu.ac.uk/images/mmu_logo.png" alt="C++ Logo" width="400" height="344" />
 
 
 # Project Title
