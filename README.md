@@ -1,17 +1,21 @@
 <img src="https://www.library.mmu.ac.uk/images/mmu_logo.png" alt="C++ Logo" width="220" height="80" />
 
 
-# Project Title
+# Test Project
 
-One Paragraph of project description goes here
+This Github space has been developed to allow me (The user) to learn about how markup files work and to develop a document template allowing me to make my md file more professional.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Clone the file to your local hard drive and make sure you put me as the author of the file :)
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+GitHub Desktop Mac
+This allows me to push changes that i have made on the local files to my github account. Username and password will be required to set this up.
+
+Visual Studio Code
+This i have installed and set up allowing me to make the changes from the software and push them using the github desktop software for mac os
 
 ```
 Give examples
@@ -37,7 +41,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Open up your github and view the readme file
 
 ### Break down into end to end tests
 
