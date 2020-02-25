@@ -1,3 +1,6 @@
+<img src="https://images.app.goo.gl/83hyNNeSpZwBs5Xh9" alt="C++ Logo" width="306" height="344" />
+
+
 # Project Title
 
 One Paragraph of project description goes here
