@@ -1,4 +1,4 @@
-<img src="https://www.library.mmu.ac.uk/images/mmu_logo.png" alt="C++ Logo" width="220" height="100" />
+<img src="https://www.library.mmu.ac.uk/images/mmu_logo.png" alt="C++ Logo" width="220" height="80" />
 
 
 # Project Title
